@@ -1,6 +1,6 @@
 
 import discord
-import TokenParser
+import JSONParser
 
 
 client = discord.Client(intents=discord.Intents.default())
