@@ -5,7 +5,7 @@ jsD = jsF.read()
 obj = json.loads(jsD)
 
 
-def getTOKEN() -> str::
+def getTOKEN() -> str:
     return obj["TOKEN"]
 
 
